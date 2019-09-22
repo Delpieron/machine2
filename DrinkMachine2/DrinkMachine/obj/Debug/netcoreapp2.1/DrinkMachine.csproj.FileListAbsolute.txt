@@ -1,0 +1,11 @@
+C:\Users\krzys\source\repos\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp2.1\DrinkMachine.deps.json
+C:\Users\krzys\source\repos\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp2.1\DrinkMachine.runtimeconfig.json
+C:\Users\krzys\source\repos\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp2.1\DrinkMachine.runtimeconfig.dev.json
+C:\Users\krzys\source\repos\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp2.1\DrinkMachine.dll
+C:\Users\krzys\source\repos\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp2.1\DrinkMachine.pdb
+C:\Users\krzys\source\repos\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp2.1\DrinkMachine.csprojAssemblyReference.cache
+C:\Users\krzys\source\repos\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp2.1\DrinkMachine.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp2.1\DrinkMachine.AssemblyInfoInputs.cache
+C:\Users\krzys\source\repos\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp2.1\DrinkMachine.AssemblyInfo.cs
+C:\Users\krzys\source\repos\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp2.1\DrinkMachine.dll
+C:\Users\krzys\source\repos\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp2.1\DrinkMachine.pdb
